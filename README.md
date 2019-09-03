@@ -6,7 +6,7 @@ If You Use Cmder On Computer Use python not python2 or 3
 
 but in termux use python2
 
-# vinstall on Termux
+# install on Termux
 pkg update
 
 pkg upgrade
