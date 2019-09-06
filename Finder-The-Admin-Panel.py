@@ -39,7 +39,7 @@ def findAdmin():
 
 def Credit():
 	Space(9); print "#####################################"
-	Space(9); print "#  +++Finder The Admin Panel V1+++  #"
+	Space(9); print "#   +Finder The Admin Panel V1.1+   #"
 	Space(9); print "#       Script by DarkVairous       #"
 	Space(9); print "#####################################"
 
