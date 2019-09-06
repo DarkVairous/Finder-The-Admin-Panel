@@ -10,6 +10,13 @@ def Space(j):
 		print " ",
 		i+=1
 
+print "  _                                                                             "
+
+print "_|_ o  __   __|  ___   __    __   __|  __ __  o  __     __   __   __   ___  |   "
+
+print " |  | |  ) (__| (__/_ |  '  (__( (__| |  )  ) | |  )   |__) (__( |  ) (__/_ |_, "
+
+print "                                                       |                        "
 
 def findAdmin():
 	f = open("link.txt","r");
